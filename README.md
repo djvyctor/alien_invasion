@@ -15,7 +15,7 @@ O projeto está dividido em vários arquivos, incluindo:
 
 ## Status
 
-Atualmente, estou na fase inicial do desenvolvimento. A nave já é renderizada na tela, e estou trabalhando na lógica de movimentação. Atualizações futuras incluirão colisões, disparos de projéteis e a implementação dos alienígenas.
+Atualmente a nave já é renderizada na tela e conseguimos disparar projéteis. Atualizações futuras incluirão colisões e a implementação dos alienígenas.
 
 ## Créditos
 
