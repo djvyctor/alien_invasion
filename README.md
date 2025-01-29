@@ -15,7 +15,7 @@ O projeto está dividido em vários arquivos, incluindo:
 
 ## Status
 
-Atualmente a nave já é renderizada na tela e conseguimos disparar projéteis. Atualizações futuras incluirão colisões e a implementação dos alienígenas.
+Atualmente já conseguimos abater alienigenas com disparos pela nave e loop de aliens.
 
 ## Créditos
 
