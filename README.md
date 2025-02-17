@@ -6,16 +6,9 @@ Este projeto é inspirado no livro *"Python Crash Course"* de Eric Matthes. Trat
 
 **Alien Invasion** é um jogo onde o jogador controla uma espaço-nave que pode se mover pela tela enquanto tenta evitar ou atacar alienígenas (esta funcionalidade ainda está em desenvolvimento). A ideia é criar uma experiência simples, mas divertida, para aprender os conceitos de desenvolvimento de jogos.
 
-## Estrutura atual do projeto
-
-O projeto está dividido em vários arquivos, incluindo:
-- **`alien_invasion.py`**: Gerencia o fluxo principal do jogo.
-- **`settings.py`**: Armazena as configurações do jogo (como tamanho da tela e cores).
-- **`ship.py`**: Contém a lógica relacionada à espaço-nave do jogador.
-
 ## Status
 
-Atualmente já conseguimos abater alienigenas com disparos pela nave e loop de aliens.
+Atualmente já conseguimos abater alienigenas com disparos pela nave e com que o jogo fique mais dificil ao abater aliens.
 
 ## Créditos
 
