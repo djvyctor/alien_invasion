@@ -8,7 +8,7 @@ Este projeto é inspirado no livro *"Python Crash Course"* de Eric Matthes. Trat
 
 ## Status
 
-Atualmente já conseguimos abater alienigenas com disparos pela nave e com que o jogo fique mais dificil ao abater aliens.
+Estamos entrando na faze final do game.
 
 ## Créditos
 
