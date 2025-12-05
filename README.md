@@ -19,7 +19,7 @@ Todo o conceito e boa parte da base inicial do código foram retirados do livro 
 Caso queira acompanhar ou contribuir com o projeto:
 1. Clone este repositório:
    ```bash
-   git clone <URL_DO_REPOSITORIO>
+   git clone https://github.com/djvyctor/alien_invasion.git
    ```
 2. Certifique-se de ter o Pygame instalado:
    ```bash
